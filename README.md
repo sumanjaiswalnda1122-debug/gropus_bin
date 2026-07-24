@@ -1,1 +1,1 @@
-# gropus_bin
+# gropus_bin_poweer_bi
